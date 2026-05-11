@@ -1,0 +1,23 @@
+.venv/
+.venv-win/
+.venv-infoflow/
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# Local credentials. Keep this file on your own machine, but do not commit/share it.
+tts.config.yaml
+
+# Generated outputs and temporary inspection files.
+runs/
+debug_frames/
+tmp_gap_card_checks/
+tts_test/
+volc_batch_test/
+*.log
+*_TEMP_MPY_*.mp4
+*TEMP_MPY_*.mp4
+
+# Local packaged exports.
+portable_dist/
+*.zip

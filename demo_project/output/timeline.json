@@ -1,0 +1,121 @@
+{
+  "project": {
+    "title": "示例短视频",
+    "resolution": [
+      720,
+      1280
+    ],
+    "fps": 24
+  },
+  "duration": 8.0,
+  "voice_audio": "demo_project\\input\\voice.wav",
+  "bgm_audio": "demo_project\\assets\\bgm\\bgm.wav",
+  "base_clips": [
+    {
+      "start": 0.0,
+      "end": 3.0,
+      "asset": "demo_project\\assets\\track1_base\\computer\\base_01.png",
+      "speed": 1.0
+    },
+    {
+      "start": 3.0,
+      "end": 6.0,
+      "asset": "demo_project\\assets\\track1_base\\computer\\base_01.png",
+      "speed": 1.0
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "asset": "demo_project\\assets\\track1_base\\computer\\base_01.png",
+      "speed": 1.0
+    }
+  ],
+  "segments": [
+    {
+      "text": "我最近发现一个适合普通人的副业。",
+      "manual_tags": [],
+      "start": 0.0,
+      "end": 1.969,
+      "track2_asset": null,
+      "match_reason": "none"
+    },
+    {
+      "text": "就是用豆包写小说。",
+      "manual_tags": [
+        "doubao"
+      ],
+      "start": 1.969,
+      "end": 3.077,
+      "track2_asset": {
+        "path": "demo_project\\assets\\track2_topic\\doubao\\doubao_home.png",
+        "rel_dir": "track2_topic\\doubao",
+        "tags": [
+          "doubao",
+          "豆包",
+          "AI"
+        ],
+        "kind": "image",
+        "priority": 8
+      },
+      "match_reason": "manual_tag:doubao"
+    },
+    {
+      "text": "我自己试了三个月，",
+      "manual_tags": [
+        "income"
+      ],
+      "start": 3.077,
+      "end": 4.185,
+      "track2_asset": {
+        "path": "demo_project\\assets\\track2_topic\\income\\income_proof.png",
+        "rel_dir": "track2_topic\\income",
+        "tags": [
+          "income",
+          "收益",
+          "收入"
+        ],
+        "kind": "image",
+        "priority": 8
+      },
+      "match_reason": "manual_tag:income"
+    },
+    {
+      "text": "收益已经跑出来了。",
+      "manual_tags": [
+        "income"
+      ],
+      "start": 4.185,
+      "end": 5.293,
+      "track2_asset": {
+        "path": "demo_project\\assets\\track2_topic\\income\\income_proof.png",
+        "rel_dir": "track2_topic\\income",
+        "tags": [
+          "income",
+          "收益",
+          "收入"
+        ],
+        "kind": "image",
+        "priority": 8
+      },
+      "match_reason": "manual_tag:income"
+    },
+    {
+      "text": "第一版工具先把基础画面、字幕和素材匹配跑通。",
+      "manual_tags": [],
+      "start": 5.293,
+      "end": 8.0,
+      "track2_asset": null,
+      "match_reason": "none"
+    }
+  ],
+  "style": {
+    "font": "",
+    "subtitle_font_size": 42,
+    "subtitle_fill": "white",
+    "subtitle_stroke": "black",
+    "subtitle_stroke_width": 3,
+    "bgm_volume": 0.08,
+    "voice_volume": 1.0
+  },
+  "output_video": "demo_project\\output\\final_video.mp4"
+}

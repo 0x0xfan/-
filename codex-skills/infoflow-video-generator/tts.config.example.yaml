@@ -1,0 +1,59 @@
+# 配音配置模板。复制到项目根目录并命名为 tts.config.yaml。
+# 把 active 改成你要用的渠道，然后只填写对应渠道。
+# 当前脚本已接入：volcengine、minimax。
+# 其他渠道先预留配置位，填写后还需要接入对应 API 调用。
+
+active: ""
+voice_strategy: round_robin
+
+providers:
+  volcengine:
+    appid: ""
+    token: ""
+    endpoint: ""
+    voices:
+      - "zh_female_meilinvyou_emo_v2_mars_bigtts"
+
+  minimax:
+    api_key: ""
+    model: "speech-2.8-hd"
+    endpoint: ""
+    voices:
+      - "female-shaonv"
+
+  qwen:
+    api_key: ""
+    model: ""
+    endpoint: ""
+    voices:
+      - ""
+
+  openai:
+    api_key: ""
+    model: "gpt-4o-mini-tts"
+    endpoint: ""
+    voices:
+      - "alloy"
+
+  elevenlabs:
+    api_key: ""
+    model: ""
+    endpoint: ""
+    voices:
+      - ""
+
+  tencent:
+    secret_id: ""
+    secret_key: ""
+    appid: ""
+    endpoint: ""
+    voices:
+      - ""
+
+  xunfei:
+    appid: ""
+    api_key: ""
+    api_secret: ""
+    endpoint: ""
+    voices:
+      - ""

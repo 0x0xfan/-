@@ -1,0 +1,3 @@
+display_name: 信息流视频生成
+short_description: 从素材文件夹批量生成信息流口播短视频
+default_prompt: 使用素材主文件夹批量生成信息流视频，自动配音、字幕、轨道素材和导出。

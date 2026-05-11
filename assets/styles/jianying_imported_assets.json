@@ -1,0 +1,205 @@
+{
+  "source": "E:\\剪映数据\\预设\\JianyingPro Presets\\Combination\\Presets",
+  "font_count": 9,
+  "sfx_count": 19,
+  "fonts": [
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\effect\\6740499188347310605\\8d34d3abe70f2c3c61f9a93b1f85c76b\\综艺体.TTF",
+      "path": "assets/fonts/jianying/综艺体_53e21bbd.ttf",
+      "file": "综艺体_53e21bbd.ttf",
+      "sha1": "53e21bbdbc3924d6be09d0364b4b6dda01c3874d",
+      "bytes": 2038668
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\effect\\349309\\71a73f7e297831936018c928d61ce2b8\\新青年体-文跃新青年体.ttf",
+      "path": "assets/fonts/jianying/新青年体_文跃新青年体_f3b0e0a7.ttf",
+      "file": "新青年体_文跃新青年体_f3b0e0a7.ttf",
+      "sha1": "f3b0e0a737e2c72d021f3e32276c1a02356e1ea1",
+      "bytes": 1314056
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\effect\\7312719210373714459\\06ab9abe9d2e6f4d10152bafe691738c\\字语咏楷体.ttf",
+      "path": "assets/fonts/jianying/字语咏楷体_1ea6afba.ttf",
+      "file": "字语咏楷体_1ea6afba.ttf",
+      "sha1": "1ea6afba6af1e305ca565b64ac9b8bd0ec0d864b",
+      "bytes": 3694412
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\effect\\7415915702009269539\\bd4bdc8403280395a79565573a6a3cbb\\字魂48号-半天云魅黑手书.ttf",
+      "path": "assets/fonts/jianying/字魂48号_半天云魅黑手书_95855e7a.ttf",
+      "file": "字魂48号_半天云魅黑手书_95855e7a.ttf",
+      "sha1": "95855e7af30080ff17eb23d18ad5257f99b67c36",
+      "bytes": 17580384
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\effect\\34549536\\433365b2542fd9472e2b74bc82c0423f\\三极极宋 超粗.ttf",
+      "path": "assets/fonts/jianying/三极极宋_超粗_5ab04417.ttf",
+      "file": "三极极宋_超粗_5ab04417.ttf",
+      "sha1": "5ab044170152027372d5e514a9122caaf0059591",
+      "bytes": 4588568
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\effect\\7508640356880239926\\3c48cf95219becca352606deffe80cd0\\font.ttf",
+      "path": "assets/fonts/jianying/font_ee5d181a.ttf",
+      "file": "font_ee5d181a.ttf",
+      "sha1": "ee5d181a098126433c2d11f14b7246dbf930350e",
+      "bytes": 4953000
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\effect\\11443545\\aafc0b7c13e1c5b790d090e57afcff76\\SuXinShiGuYinSongJian-1.ttf",
+      "path": "assets/fonts/jianying/suxinshiguyinsongjian_1_ee2520cb.ttf",
+      "file": "suxinshiguyinsongjian_1_ee2520cb.ttf",
+      "sha1": "ee2520cbe561307171bf22266a27a938b7352e9e",
+      "bytes": 10200124
+    },
+    {
+      "source": "C:\\Windows\\Fonts\\candaraz.ttf",
+      "path": "assets/fonts/jianying/candaraz_2fc68094.ttf",
+      "file": "candaraz_2fc68094.ttf",
+      "sha1": "2fc68094aefa63acff165a00a39cf0b682a55ffc",
+      "bytes": 254676
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\effect\\7504568712003980563\\e57238555d26bb6c1c012b138bc2d802\\font.ttf",
+      "path": "assets/fonts/jianying/font_ce07558f.ttf",
+      "file": "font_ce07558f.ttf",
+      "sha1": "ce07558f5e8f05c2fd1b51e14297db0e0f47c733",
+      "bytes": 3787028
+    }
+  ],
+  "sfx": [
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\6f6194af15a263e66a03bd78c8655c3b.mp3",
+      "path": "assets/sfx/jianying/按空格键_f04d85b0.mp3",
+      "file": "按空格键_f04d85b0.mp3",
+      "sha1": "f04d85b0abc1142a1ceb96e5c4b83906404dc7fa",
+      "bytes": 12333
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\93a6b50a8e0fec1cbf71e8283a3d0caa.mp3",
+      "path": "assets/sfx/jianying/任务完成_a29026ea.mp3",
+      "file": "任务完成_a29026ea.mp3",
+      "sha1": "a29026ea0e738904913e4cfb10438166bec5b5b2",
+      "bytes": 24733
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\0291b72047769e085e7595ce5d65dbd2.mp3",
+      "path": "assets/sfx/jianying/唰_f1eae931.mp3",
+      "file": "唰_f1eae931.mp3",
+      "sha1": "f1eae9318ff68927b5496127021fd1fc6000c70a",
+      "bytes": 7568
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\2906f97517da1b7367b521c61d78582e.mp3",
+      "path": "assets/sfx/jianying/嚯_11a18b8e.mp3",
+      "file": "嚯_11a18b8e.mp3",
+      "sha1": "11a18b8e18ba1581a6fc415bda438a69966b2653",
+      "bytes": 2552
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\dffed15ac21ad83433ecd38d2bf98b13.mp3",
+      "path": "assets/sfx/jianying/匕首_6152ae5c.mp3",
+      "file": "匕首_6152ae5c.mp3",
+      "sha1": "6152ae5cac54c70a593a1772d2bd1d799b6f87f8",
+      "bytes": 23061
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\b8884ca9ac88f31ed37004737e63a961.mp3",
+      "path": "assets/sfx/jianying/ding_可爱提示音_c4e2aa56.mp3",
+      "file": "ding_可爱提示音_c4e2aa56.mp3",
+      "sha1": "c4e2aa56acc169fa8a60ff4d63b562ab138851b4",
+      "bytes": 24732
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\2f30513ee1da0895ef4da3d37ae952a5.mp3",
+      "path": "assets/sfx/jianying/短嘟声_e54071b8.mp3",
+      "file": "短嘟声_e54071b8.mp3",
+      "sha1": "e54071b80a0863b386f97043e2006e9dbcfe93c7",
+      "bytes": 7725
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\90451fe8b22ead1e1794a54cfcfb95c9.mp3",
+      "path": "assets/sfx/jianying/转动链条_综艺短视频回忆转场_画面切换_5b22025a.mp3",
+      "file": "转动链条_综艺短视频回忆转场_画面切换_5b22025a.mp3",
+      "sha1": "5b22025ac69b8028965a928f5d55bac0b6a36117",
+      "bytes": 253485
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\8dd899f11b436bafdea4cfb4d38fa035.mp3",
+      "path": "assets/sfx/jianying/水滴落下音效_370a9b61.mp3",
+      "file": "水滴落下音效_370a9b61.mp3",
+      "sha1": "370a9b612ba562d517866f219bab48d5e1c534dc",
+      "bytes": 7725
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\01a6de9e81e12132dd96d8f1407b0fb1.mp3",
+      "path": "assets/sfx/jianying/tom鼓_cd6da03e.mp3",
+      "file": "tom鼓_cd6da03e.mp3",
+      "sha1": "cd6da03e48e33aa38c7c1284d3abb7eec5954ebb",
+      "bytes": 24286
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\df9b2f7f7c14756cc60af30e55f090c7.mp3",
+      "path": "assets/sfx/jianying/打响指的声音_f7ca5bfb.mp3",
+      "file": "打响指的声音_f7ca5bfb.mp3",
+      "sha1": "f7ca5bfb9e98fb80d758bbafc04cff19163c2469",
+      "bytes": 2602
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\8c180184580af43efc914f665def9cdf.mp3",
+      "path": "assets/sfx/jianying/提示音_0b427ba1.mp3",
+      "file": "提示音_0b427ba1.mp3",
+      "sha1": "0b427ba1198c62e555c2e7170e9332ff7bf93d0b",
+      "bytes": 20998
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\b9d488609f6716f45f631bd6eb02a128.mp3",
+      "path": "assets/sfx/jianying/打字声_f7aeb74a.mp3",
+      "file": "打字声_f7aeb74a.mp3",
+      "sha1": "f7aeb74a0645a05d3deba8cba01d8c813e641ab3",
+      "bytes": 32919
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\c41049563dcdf1c520a847a0b799920a.mp3",
+      "path": "assets/sfx/jianying/叮_收银机提示音1_64803bcd.mp3",
+      "file": "叮_收银机提示音1_64803bcd.mp3",
+      "sha1": "64803bcdf22ddd47e59bfdbc1091ccfffcdad7bc",
+      "bytes": 35989
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\5c9494e0e95f6b9f47d56addc077151d.mp3",
+      "path": "assets/sfx/jianying/魔法音效_d2ac24e2.mp3",
+      "file": "魔法音效_d2ac24e2.mp3",
+      "sha1": "d2ac24e247b49d09bc27572bcc37893ec4100ec3",
+      "bytes": 31809
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\017e1c50ed85867ebad650b2bc074759.mp3",
+      "path": "assets/sfx/jianying/超级玛丽捡起金币_8ce9cff3.mp3",
+      "file": "超级玛丽捡起金币_8ce9cff3.mp3",
+      "sha1": "8ce9cff3e2b0012863959934775b5500f71ec6d5",
+      "bytes": 5269
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\eb30753445548cc72e95d0b224ec92a2.mp3",
+      "path": "assets/sfx/jianying/金币散落_7a37b303.mp3",
+      "file": "金币散落_7a37b303.mp3",
+      "sha1": "7a37b30349c9d5e6ed386af8b906d8aaa0e291b3",
+      "bytes": 11134
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\4a5a5edeaae505df60cd24dba1feb012.mp3",
+      "path": "assets/sfx/jianying/钱_money_d369bdb2.mp3",
+      "file": "钱_money_d369bdb2.mp3",
+      "sha1": "d369bdb2b27cb8da2bf583fded0236bdf86c7d95",
+      "bytes": 30765
+    },
+    {
+      "source": "C:\\Users\\shengfan\\AppData\\Local\\JianyingPro\\User Data\\Cache\\music\\86b14e3b42ade78a1dc14034370178c3.mp3",
+      "path": "assets/sfx/jianying/游戏成功通过音效_d0cb6f05.mp3",
+      "file": "游戏成功通过音效_d0cb6f05.mp3",
+      "sha1": "d0cb6f05babe7f0d8ba352eb1fcee9fc98a6353a",
+      "bytes": 53805
+    }
+  ]
+}

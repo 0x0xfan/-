@@ -1,0 +1,35 @@
+project:
+  title: "示例短视频"
+  resolution: [720, 1280]
+  fps: 24
+
+input:
+  script: "input/script.md"
+  voice_audio: "input/voice.wav"
+
+assets:
+  root: "assets"
+
+output:
+  dir: "output"
+  filename: "final_video.mp4"
+
+style:
+  font: ""
+  subtitle_font_size: 42
+  subtitle_fill: "white"
+  subtitle_stroke: "black"
+  subtitle_stroke_width: 3
+  bgm_volume: 0.08
+  voice_volume: 1.0
+
+rules:
+  base_clip_duration: 3.0
+  base_speed: 1.0
+  events:
+    - event: "doubao_tool"
+      keywords: ["豆包", "AI", "提示词"]
+      asset_tags: ["doubao", "豆包"]
+    - event: "income_proof"
+      keywords: ["收益", "收入", "赚钱", "收获"]
+      asset_tags: ["income", "收益"]
